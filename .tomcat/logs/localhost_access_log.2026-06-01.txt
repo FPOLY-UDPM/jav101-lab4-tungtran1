@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:11:21:36 +0700] "GET /jav101-lab4-tungtran1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:11:21:37 +0700] "GET /jav101-lab4-tungtran1/ HTTP/1.1" 200 241
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:11:21:40 +0700] "GET /jav101-lab4-tungtran1/upload HTTP/1.1" 200 375
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:11:22:03 +0700] "GET /jav101-lab4-tungtran1/calculate HTTP/1.1" 200 423
+0:0:0:0:0:0:0:1 - - [01/Jun/2026:11:22:09 +0700] "POST /jav101-lab4-tungtran1/calculate/add HTTP/1.1" 200 413

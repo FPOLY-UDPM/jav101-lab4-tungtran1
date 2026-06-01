@@ -1,0 +1,35 @@
+01-Jun-2026 11:21:31.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/11.0.20
+01-Jun-2026 11:21:32.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 16 2026 17:09:18 UTC
+01-Jun-2026 11:21:32.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 11.0.20.0
+01-Jun-2026 11:21:32.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+01-Jun-2026 11:21:32.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+01-Jun-2026 11:21:32.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+01-Jun-2026 11:21:32.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-21.0.10
+01-Jun-2026 11:21:32.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.10+8-LTS-217
+01-Jun-2026 11:21:32.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Jun-2026 11:21:32.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\jav101-lab4-tungtran1\.tomcat
+01-Jun-2026 11:21:32.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 11.0
+01-Jun-2026 11:21:32.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 11.0
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\jav101-lab4-tungtran1\.tomcat
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\jav101-lab4-tungtran1\.tomcat\temp
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\jav101-lab4-tungtran1\.tomcat\conf\logging.properties
+01-Jun-2026 11:21:32.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jun-2026 11:21:32.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.6.2\lib\idea_rt.jar=49764
+01-Jun-2026 11:21:32.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+01-Jun-2026 11:21:32.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+01-Jun-2026 11:21:32.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+01-Jun-2026 11:21:32.026 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-21.0.10\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python314\Scripts\;C:\Python314\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\TRANTUNG\AppData\Local\Microsoft\WindowsApps;C:\Users\TRANTUNG\AppData\Roaming\npm;C:\Users\TRANTUNG\AppData\Local\Programs\Microsoft VS Code\bin;.]
+01-Jun-2026 11:21:32.346 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Jun-2026 11:21:32.365 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [597] milliseconds
+01-Jun-2026 11:21:32.432 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Jun-2026 11:21:32.432 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/11.0.20]
+01-Jun-2026 11:21:32.442 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\jav101-lab4-tungtran1\.tomcat\conf\Catalina\localhost\jav101-lab4-tungtran1.xml]
+01-Jun-2026 11:21:33.338 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+01-Jun-2026 11:21:33.439 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\jav101-lab4-tungtran1\.tomcat\conf\Catalina\localhost\jav101-lab4-tungtran1.xml] has finished in [997] ms
+01-Jun-2026 11:21:33.443 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jun-2026 11:21:33.467 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1100] milliseconds
